@@ -8,7 +8,6 @@
 
 ![GitHub Org](https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 *"Sometimes the only deployment strategy is faith."*
 
